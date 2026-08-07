@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data/cache files
+name_cache.json
+industry_cache.json
+metrics_cache.json
+financial_cache.json
+*.json
+*.xlsx
+*.csv
+*.pdf
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
